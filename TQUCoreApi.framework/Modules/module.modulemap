@@ -1,0 +1,6 @@
+framework module TQUCoreApi {
+  umbrella header "TQUCoreApi.h"
+
+  export *
+  module * { export * }
+}
